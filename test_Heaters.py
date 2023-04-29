@@ -142,3 +142,5 @@ except:
     save_txt(tm[0:i],Q1[0:i],Q2[0:i],T1[0:i],T2[0:i],Tsp1[0:i],Tsp2[0:i])
     plt.savefig('test_Heaters.png')
     raise
+
+    print("campeon")
